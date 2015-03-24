@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Cobalt2.sublime-theme",
+	"word_wrap": true
+}

@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"JsFormat",
+		"Package Control",
+		"Seti_UI",
+		"Theme - Centurion",
+		"Theme - Cobalt2"
+	]
+}
